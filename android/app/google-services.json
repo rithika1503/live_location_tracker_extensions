@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "164724883659",
+    "project_id": "live-location-tracker-7ab07",
+    "storage_bucket": "live-location-tracker-7ab07.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164724883659:android:93890c969bf43484cc9b4e",
+        "android_client_info": {
+          "package_name": "com.aaddev.my_loc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUH-Fj7thRJUsaieWIAvL3F9YNW1QrRO8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
